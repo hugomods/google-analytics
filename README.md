@@ -1,0 +1,1 @@
+# Hugo Google Analytics Module
