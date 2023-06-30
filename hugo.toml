@@ -2,4 +2,3 @@
 min = "0.110.0"
 
 [params.hugopress.modules.google-analytics.hooks.head-end]
-cacheable = true
