@@ -5,4 +5,4 @@
 [![License](https://img.shields.io/github/license/hugomods/google-analytics?style=flat-square)](https://github.com/hugomods/google-analytics/blob/main/LICENSE)
 [![Version](https://img.shields.io/github/v/tag/hugomods/google-analytics?label=version&style=flat-square)](https://github.com/hugomods/google-analytics/tags)
 
-This module offers support for Google Analytics. It’s built on top of Hugo internal Google Analytics template, and port it for [HugoPress](https://hugomods.com/en/docs/hugopress/). Read more on our [documentations](https://hugomods.com/en/docs/google-analytics/).
+This module offers support for Google Analytics. It’s built on top of Hugo internal Google Analytics template, and port it for [HugoPress](https://hugomods.com/en/docs/hugopress/). Read more on our [documentation](https://hugomods.com/en/docs/google-analytics/).
