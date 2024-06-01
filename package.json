@@ -11,6 +11,6 @@
   },
   "homepage": "https://github.com/hugomods/google-analytics#readme",
   "dependencies": {
-    "prettier-plugin-go-template": "^0.0.13"
+    "prettier-plugin-go-template": "^0.0.15"
   }
 }
